@@ -14,7 +14,7 @@
 
 Foodie. is a fully responsive Restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href="https://lakshan-a.github.io/Food_Web/" ><strong target="_blank">➥ Live Demo</strong></a>
+<a href="https://lakshanrashmika.github.io/Foodie/" ><strong target="_blank">➥ Live Demo</strong></a>
 
 </div>
 
